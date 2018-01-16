@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         view.addSubview(button)
         button.backgroundColor = .white
         print("First GitHub Demo, Excited")
+        print("another test")
     }
 
     override func didReceiveMemoryWarning() {
