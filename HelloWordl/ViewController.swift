@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         button.setTitleColor(.black, for: .normal)
         view.addSubview(button)
         button.backgroundColor = .white
+        print("First GitHub Demo, Excited")
     }
 
     override func didReceiveMemoryWarning() {
